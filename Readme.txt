@@ -1,6 +1,5 @@
-README - CMPSC 297
 Varun Jani
-vxj5053@psu.edu
+
 
 System: Windows 10
 IDE: PyCharm
